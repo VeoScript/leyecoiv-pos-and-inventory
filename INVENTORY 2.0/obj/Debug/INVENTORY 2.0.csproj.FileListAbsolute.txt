@@ -1,0 +1,81 @@
+C:\Users\Villaruel Jerome\Desktop\INVENTORY 2.0\INVENTORY 2.0\bin\Debug\INVENTORY 2.0.exe.config
+C:\Users\Villaruel Jerome\Desktop\INVENTORY 2.0\INVENTORY 2.0\bin\Debug\INVENTORY 2.0.exe
+C:\Users\Villaruel Jerome\Desktop\INVENTORY 2.0\INVENTORY 2.0\bin\Debug\INVENTORY 2.0.pdb
+C:\Users\Villaruel Jerome\Desktop\INVENTORY 2.0\INVENTORY 2.0\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Villaruel Jerome\Desktop\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.Properties.Resources.resources
+C:\Users\Villaruel Jerome\Desktop\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY 2.0.csproj.GenerateResource.Cache
+C:\Users\Villaruel Jerome\Desktop\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY 2.0.exe
+C:\Users\Villaruel Jerome\Desktop\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY 2.0.pdb
+C:\Users\Villaruel Jerome\Desktop\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Villaruel Jerome\Desktop\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.Home.resources
+C:\Users\Villaruel Jerome\Desktop\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.LinkForms.Product.resources
+C:\Users\Villaruel Jerome\Desktop\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.LinkForms.Inventory.resources
+C:\Users\Villaruel Jerome\Desktop\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.LinkForms.TransactionHistory.resources
+C:\Users\Villaruel Jerome\Desktop\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.LinkForms.PreviewSavedTransaction.resources
+C:\Users\Villaruel Jerome\Desktop\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.Login.resources
+C:\Users\Villaruel Jerome\Desktop\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.LinkForms.AddAccount.resources
+C:\Users\Villaruel Jerome\Desktop\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.LinkForms.AddEmployee.resources
+C:\Users\Villaruel Jerome\Desktop\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.LinkForms.MyAccount.resources
+C:\Users\Villaruel Jerome\Desktop\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.LinkForms.AboutSystem.resources
+D:\INVENTORY 2.0\INVENTORY 2.0\bin\Debug\INVENTORY 2.0.exe.config
+D:\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY 2.0.exe
+D:\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY 2.0.pdb
+D:\INVENTORY 2.0\INVENTORY 2.0\bin\Debug\INVENTORY 2.0.exe
+D:\INVENTORY 2.0\INVENTORY 2.0\bin\Debug\INVENTORY 2.0.pdb
+D:\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY 2.0.csprojResolveAssemblyReference.cache
+D:\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.Home.resources
+D:\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.LinkForms.AboutSystem.resources
+D:\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.LinkForms.AddAccount.resources
+D:\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.LinkForms.AddEmployee.resources
+D:\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.LinkForms.Inventory.resources
+D:\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.LinkForms.MyAccount.resources
+D:\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.LinkForms.PreviewSavedTransaction.resources
+D:\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.LinkForms.Product.resources
+D:\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.LinkForms.TransactionHistory.resources
+D:\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.Login.resources
+D:\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.Properties.Resources.resources
+D:\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY 2.0.csproj.GenerateResource.Cache
+D:\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY 2.0.csproj.ResolveComReference.cache
+D:\INVENTORY 2.0\INVENTORY 2.0\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\INVENTORY 2.0\INVENTORY 2.0\bin\Debug\INVENTORY 2.0.exe.config
+E:\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY 2.0.csproj.ResolveComReference.cache
+E:\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY 2.0.exe
+E:\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY 2.0.pdb
+E:\VEO Backup\INVENTORY 2.0\INVENTORY 2.0\bin\Debug\INVENTORY 2.0.exe.config
+E:\VEO Backup\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY 2.0.csproj.ResolveComReference.cache
+E:\VEO Backup\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY 2.0.exe
+E:\VEO Backup\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY 2.0.pdb
+E:\VEO Backup\INVENTORY 2.0\INVENTORY 2.0\bin\Debug\INVENTORY 2.0.exe
+E:\VEO Backup\INVENTORY 2.0\INVENTORY 2.0\bin\Debug\INVENTORY 2.0.pdb
+E:\VEO Backup\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY 2.0.csprojResolveAssemblyReference.cache
+E:\VEO Backup\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.Home.resources
+E:\VEO Backup\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.LinkForms.AboutSystem.resources
+E:\VEO Backup\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.LinkForms.AddAccount.resources
+E:\VEO Backup\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.LinkForms.AddEmployee.resources
+E:\VEO Backup\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.LinkForms.Inventory.resources
+E:\VEO Backup\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.LinkForms.MyAccount.resources
+E:\VEO Backup\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.LinkForms.PreviewSavedTransaction.resources
+E:\VEO Backup\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.LinkForms.Product.resources
+E:\VEO Backup\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.LinkForms.TransactionHistory.resources
+E:\VEO Backup\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.Login.resources
+E:\VEO Backup\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.Properties.Resources.resources
+E:\VEO Backup\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY 2.0.csproj.GenerateResource.Cache
+C:\Users\jerom\Desktop\INVENTORY 2.0\INVENTORY 2.0\bin\Debug\INVENTORY 2.0.exe.config
+C:\Users\jerom\Desktop\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY 2.0.csproj.ResolveComReference.cache
+C:\Users\jerom\Desktop\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY 2.0.exe
+C:\Users\jerom\Desktop\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY 2.0.pdb
+C:\Users\jerom\Desktop\INVENTORY 2.0\INVENTORY 2.0\bin\Debug\INVENTORY 2.0.exe
+C:\Users\jerom\Desktop\INVENTORY 2.0\INVENTORY 2.0\bin\Debug\INVENTORY 2.0.pdb
+C:\Users\jerom\Desktop\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY 2.0.csprojResolveAssemblyReference.cache
+C:\Users\jerom\Desktop\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.Home.resources
+C:\Users\jerom\Desktop\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.LinkForms.AboutSystem.resources
+C:\Users\jerom\Desktop\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.LinkForms.AddAccount.resources
+C:\Users\jerom\Desktop\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.LinkForms.AddEmployee.resources
+C:\Users\jerom\Desktop\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.LinkForms.Inventory.resources
+C:\Users\jerom\Desktop\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.LinkForms.MyAccount.resources
+C:\Users\jerom\Desktop\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.LinkForms.PreviewSavedTransaction.resources
+C:\Users\jerom\Desktop\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.LinkForms.Product.resources
+C:\Users\jerom\Desktop\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.LinkForms.TransactionHistory.resources
+C:\Users\jerom\Desktop\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.Login.resources
+C:\Users\jerom\Desktop\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY_2._0.Properties.Resources.resources
+C:\Users\jerom\Desktop\INVENTORY 2.0\INVENTORY 2.0\obj\Debug\INVENTORY 2.0.csproj.GenerateResource.Cache
